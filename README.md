@@ -1,6 +1,8 @@
 # PLC-Project
 Research and Construct Automatic Sorting Product by Color using PLC Siemens S7-1200 and Computer Vision.
+
 In this project, we use Computer Vision to detect three different color such as Yellow, Blue and Purple. After that, we communicate with PLC S7-1200 through ModBus TCP/IP Protocol. The version of TIA-PORTAL is v16.
+
 For more detail, you can watch the Video show how the system operating: https://www.youtube.com/watch?v=-eSwlSKctss
 
 
